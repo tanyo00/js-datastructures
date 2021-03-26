@@ -1,0 +1,33 @@
+Trees
+- Each Node has 1 parent and 0 or more childs
+- Root Node (starting node)
+- Leafs (Nodes without child nodes)
+
+
+Binary Tree (BT)
+- Includes all Tree rules
+- Each Node can have maximum of 2 child nodes
+
+
+Binary Search Tree (BST)
+- Includes all Binary Tree rules
+- Smaller values on the left
+- Bigger values on the right
+
+Traversal(loop through nodes of the tree):
+- Pre-Order(root, left, right)
+- In-Order(left, root, right) (from smallest to the biggest one)
+- Post-Order (left, right, root)
+- Level-Order(Breadth-First Search)
+
+Operations(methods):
+- insert 
+- delete
+- contains
+- size
+- max
+- min
+- BFS
+- preOrder
+- inOrder
+- postOrder
